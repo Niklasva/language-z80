@@ -7,7 +7,7 @@
 'scopeName': 'source.z80'
 'patterns': [
   {
-    'match': '[;#].*$'
+    'match': '[;].*$'
     'name': 'comment.line'
   }
   {
